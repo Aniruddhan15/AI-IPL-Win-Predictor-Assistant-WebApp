@@ -9,3 +9,6 @@
 # **API Intgeration** :<br/> Gemini-1.0-pro 
 # **Web App** :<br/> Streamlit
 # **Web App Deploy**: <br/>Streamlit community cloud
+
+Public Link: https://ai-ipl-win-predictor-assistant-webapp-dgd9dapr4jga9wrryjpkxg.streamlit.app/
+
