@@ -25,7 +25,7 @@ Customizable Settings: Allows configuration of prediction parameters.<br/>
 Performance Optimization: Delivers rapid and reliable predictions.<br/>
 Deployment Ready: Scalable and accessible from any device.<br/>
 
-#**Screenshots of the web app**
+# **Screenshots of the web app**
 **Sample 1**
 ![Screenshot 2024-07-08 135428](https://github.com/Aniruddhan15/AI-IPL-Win-Predictor-Assistant-WebApp/assets/137152187/cbbf0c8f-40cc-40d1-9d39-fea2dc57b7eb)
 
