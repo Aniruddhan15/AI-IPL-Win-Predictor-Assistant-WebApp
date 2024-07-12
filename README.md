@@ -55,7 +55,7 @@ To clone the repository, use the following command:
 
 <pre>
 <code id="clone-code-aniruddhan">
-git clone [https://github.com/Aniruddhan15/NUTRITION_APP-USING-GEMINI-API.git](https://github.com/Aniruddhan15/AI-IPL-Win-Predictor-Assistant-WebApp.git)
+git clone (https://github.com/Aniruddhan15/AI-IPL-Win-Predictor-Assistant-WebApp.git)
 </code>
 </pre>
 
