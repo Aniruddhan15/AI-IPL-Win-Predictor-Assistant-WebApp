@@ -25,12 +25,14 @@ Customizable Settings: Allows configuration of prediction parameters.<br/>
 Performance Optimization: Delivers rapid and reliable predictions.<br/>
 Deployment Ready: Scalable and accessible from any device.<br/>
 
-**Screenshots of the web app**
+#**Screenshots of the web app**
+**Sample 1**
 ![Screenshot 2024-07-08 135428](https://github.com/Aniruddhan15/AI-IPL-Win-Predictor-Assistant-WebApp/assets/137152187/cbbf0c8f-40cc-40d1-9d39-fea2dc57b7eb)
------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Screenshot 2024-07-08 135340](https://github.com/Aniruddhan15/AI-IPL-Win-Predictor-Assistant-WebApp/assets/137152187/c5cbfbd6-757f-47f7-964b-d7ee2979f9ea)
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Screenshot 2024-07-08 135428](https://github.com/Aniruddhan15/AI-IPL-Win-Predictor-Assistant-WebApp/assets/137152187/ce29ca8c-461f-40fa-bbff-9c4d0ce6394c)
+
 
 # **Web App Deploy**: <br/>Streamlit community cloud
 Public Link: https://ai-ipl-win-predictor-assistant-webapp-dgd9dapr4jga9wrryjpkxg.streamlit.app/
@@ -134,6 +136,7 @@ git push origin feature-branch
 # Host the Application
 Choose a hosting platform (e.g., Heroku, AWS, Google Cloud Platform) and deploy your application following platform-specific instructions.<br/>
 I used Streamlit Deploy and hosting services
+
 # **License**
 Apache License <br/>
 Version 2.0, January 2004
