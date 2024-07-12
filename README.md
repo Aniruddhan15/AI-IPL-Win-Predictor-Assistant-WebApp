@@ -2,7 +2,8 @@
 
 # Complete End to End Grandeur IPL Predictor app
 
-#Disclaimer: this app is purely for cricket enthusiats, technologists who love to integrate tech into the domain of cricket and sports. <br/> This app helps to provide key insights about the match.<br/> Hence utilise the freedom of prompt/intention and individual with approporiate terms,usage of language.
+# Disclaimer: 
+This app is purely for cricket enthusiats, technologists who love to integrate tech into the domain of cricket and sports. <br/> This app helps to provide key insights about the match.<br/> Hence utilise the freedom of prompt/intention and individual with approporiate terms,usage of language.
 # Overview
 The Cricket Predictor App utilizes the Gemini Pro pre-trained model to predict cricket match outcomes based on various input factors such as team names, stadium conditions, pitch types, and more.<br/> This app provides cricket enthusiasts and analysts with accurate match insights, enhancing their understanding and enjoyment of the game.
 
@@ -106,7 +107,7 @@ You can view your web browser at (http://localhost:5000) (or http://127.0.0.1:50
 Register your desired meal picture and a prompt about it start receiving personalized meal plans and tracking your nutrition.
 
 # **Contributing** 
-We welcome contributions to enhance the AI Nutrition App. Please fork the repository, create a new branch for your feature or bug fix, and submit a pull request. Make sure to follow our coding guidelines and include appropriate tests.
+We welcome contributions to enhance the AI Nutrition App.<br/> please fork the repository, create a new branch for your feature or bug fix, and submit a pull request.<br/> Make sure to follow our coding guidelines and include appropriate tests.
 
 # **Contributing Guidelines**
 Fork the repository.Create a new branch.
