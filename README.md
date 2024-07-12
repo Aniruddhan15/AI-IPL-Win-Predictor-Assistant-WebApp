@@ -28,6 +28,7 @@ Deployment Ready: Scalable and accessible from any device.<br/>
 
 # **Screenshots of the web app**
 **Sample 1**
+
 ![Screenshot 2024-07-08 135428](https://github.com/Aniruddhan15/AI-IPL-Win-Predictor-Assistant-WebApp/assets/137152187/cbbf0c8f-40cc-40d1-9d39-fea2dc57b7eb)
 
 ![Screenshot 2024-07-08 135340](https://github.com/Aniruddhan15/AI-IPL-Win-Predictor-Assistant-WebApp/assets/137152187/c5cbfbd6-757f-47f7-964b-d7ee2979f9ea)
@@ -76,10 +77,10 @@ Visit the AI Studio website (https://aistudio.google.com/app/apikey) and sign up
 Follow the instructions provided by AI studio Google to obtain an API key.<br/>
 Copy the API key as you will need it in the next step.<br/>
 Add your API key to the app.py file:<br/>
-Open the app.py file in a text editor.<br/>
+Open the Cricket.py file in a text editor.<br/>
 Locate the line that says genai.api_key = 'YOUR_API_KEY'.<br/>
 Replace 'YOUR_API_KEY' with the API key you obtained from AIStudio.<br/>
-Save the app.py file.
+Save the Cricket.py file.
 
 # Alternative/ Best option:
 Create a ".env" file to your environment and add your api key as google_api_key="(Put Your api key, please dont forget to include as a string)" <br/>
@@ -118,6 +119,7 @@ git checkout -b feature-branch
 </pre>
 
 **Make your changes.**
+
 **Commit your changes.**
 <pre>
 <code id="Commit the changes">
