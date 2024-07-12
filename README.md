@@ -1,6 +1,22 @@
 # AI-IPL-Win-Predictor-Assistant-WebApp
+
+# Complete End to End Grandeur IPL Predictor app
+
+#Disclaimer: this app is purely for cricket enthusiats, technologists who love to integrate tech into the domain of cricket and sports. <br/> This app helps to provide key insights about the match.<br/> Hence utilise the freedom of prompt/intention and individual with approporiate terms,usage of language.
 # Overview
 The Cricket Predictor App utilizes the Gemini Pro pre-trained model to predict cricket match outcomes based on various input factors such as team names, stadium conditions, pitch types, and more.<br/> This app provides cricket enthusiasts and analysts with accurate match insights, enhancing their understanding and enjoyment of the game.
+
+# Objective:
+The primary objective of the Cricket Predictor App is to provide users with precise and insightful predictions of cricket match outcomes.<br/> By leveraging advanced AI models and considering various factors that influence the game, the app aims to assist cricket fans, analysts, and enthusiasts in making informed predictions and analyses.
+
+# Proposed Solution
+To achieve the objective, the app integrates the Gemini Pro pre-trained model through a streamlined process: <br/>
+User Interaction: Users interact with an intuitive UI to enter match details such as team names, stadium, pitch conditions, and other relevant factors.<br/>
+Data Collection: The app securely collects user inputs and transmits them to the backend using a Google API key.<br/>
+API Integration: User inputs are forwarded to the Gemini Pro model via an API call.<br/>
+Model Processing: The Gemini Pro pre-trained model processes the inputs and generates predictions.<br/>
+Result Display: The results are returned to the frontend, where they are formatted and displayed to the user.<br/>
+
 # Features
 User Input Collection: Intuitive interface for entering match details.<br/>
 Prediction Generation: Uses the Gemini Pro model to generate detailed match predictions.<br/>
@@ -113,6 +129,9 @@ git push origin feature-branch
 
 **Create a new Pull Request.**
 
+# Host the Application
+Choose a hosting platform (e.g., Heroku, AWS, Google Cloud Platform) and deploy your application following platform-specific instructions.<br/>
+I used Streamlit Deploy and hosting services
 # **License**
 Apache License <br/>
 Version 2.0, January 2004
