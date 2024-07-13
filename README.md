@@ -144,3 +144,5 @@ I used Streamlit Deploy and hosting services
 Apache License <br/>
 Version 2.0, January 2004
 
+# Contact
+N Aniruddhan - aniruddhan26@gmail.com
