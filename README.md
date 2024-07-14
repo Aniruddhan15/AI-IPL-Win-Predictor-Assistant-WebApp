@@ -47,6 +47,10 @@ Streamlit <br/>
 Google Generative AI library <br/>
 dotenv <br/>
 
+Software Requirements: <br/>
+VsCode <br/>
+AI Studio Account
+
 # 1.**Clone the repository:** 
 # AI Cricket Assisstant App
 
