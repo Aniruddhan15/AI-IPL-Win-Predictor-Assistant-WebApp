@@ -49,7 +49,8 @@ dotenv <br/>
 
 Software Requirements: <br/>
 VsCode <br/>
-AI Studio Account
+AI Studio Account <br/>
+Streamlit Community Account for Deployment
 
 # 1.**Clone the repository:** 
 # AI Cricket Assisstant App
